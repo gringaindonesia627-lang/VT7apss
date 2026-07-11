@@ -2,44 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
         <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://drive.google.com/uc?export=download&id=1OYbJItgXSGepnXme7C4steSG6CZ-6oky</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://gringaindonesia627-lang.github.io/VT7apss/vt7/icon-120.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://gringaindonesia627-lang.github.io/VT7apss/vt7/icon-512.png</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.vt7apss.app</string>
-                <key>bundle-version</key>
-                <string>1.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>platform-identifier</key>
-                <string>com.apple.platform.iphoneos</string>
-                <key>title</key>
-                <string>VT7apss</string>
-            </dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://drive.google.com/uc?export=download&id=1OYbJItgXSGepnXme7C4steSG6CZ-6oky</string>
         </dict>
-    </array>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.gringaindonesia627.vt7apss</string>
+        <key>bundle-version</key>
+        <string>727</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>VT7apss</string>
+      </dict>
+    </dict>
+  </array>
 </dict>
 </plist>
